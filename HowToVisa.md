@@ -40,11 +40,8 @@
 **附录**
 a. 财政支持关系证明内容：
 > MouMou Zhang
-
 > address
-
 > City, province, zip code, China
-
 > 02/25/2016
 > 
 > 
@@ -56,6 +53,5 @@ a. 财政支持关系证明内容：
 > If you have any questions, feel free to contact me at +86 XXX-9018-8953.
 > 
 > Sincerely,
-
 > 父/母签名
 
