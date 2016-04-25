@@ -31,7 +31,7 @@
  - I-20【必带】
  - DS-160确认表格（不需要表格内容）【必带】
  - SEVIS I-901收据【必带】
- - Study Plan/Research Plan(大使馆官方模版点这里：[下载](http://photos.state.gov/libraries/china/240500/pdf/Study%20Plan.doc))，领提供一个example,附录b,【必带】
+ - Study Plan/Research Plan(大使馆官方模版点这里：[下载](http://photos.state.gov/libraries/china/240500/pdf/Study%20Plan.doc))，另外提供一个example,附录b,【必带】
  - CV(用你申请时候的CV就行，官方模版点这里：[下载](http://photos.state.gov/libraries/china/198266/suyu/Sample%20Resume.pdf)
  - 银行存款财产证明（同样大使馆对冻结没有要求。而且这个大使馆90%都不会看）
  - 成绩单
@@ -39,8 +39,7 @@
  - 打印的电子邮件录取通知(在you.usc.edu里面下载PDF)
  - 房产证，机动车证
  
- 
-7、到大使馆面签。
+8、到大使馆面签。
 > 面签不用紧张。其实在你提交DS160的时候你的结果就注定了。到大使馆只是走一下流程。只需要提供信息给签证官你是过去读书的，没有可能用F1签证去干其他的事情。一般签证官不会关心你毕业的去向。你也不需要特意地告诉签证官你毕业一定会回国，这样有点此地无银三百两。
 一些问题的example参看附录c
 
