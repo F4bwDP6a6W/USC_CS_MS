@@ -4,6 +4,7 @@
 > b. 登陆you.usc.edu填写intend form，完了就可以等待DHL送来I-20了，大部分人不会收到任何邮件告诉DHL track id
 
 2、拍摄电子照片：[照片要求](http://www.mcdvisa.com/html/News/Focus/201417/1417110H.html%20%E2%80%9C%E7%85%A7%E7%89%87%E8%A6%81%E6%B1%82%E2%80%9D)。填写DS-160的第一步需要。
+
 3、在线填写留学签证申请DS-160表格[传送门](https://ceac.state.gov/genniv/)
 
 > 	DS-160大部分信息都可以在i20和护照上找到。 	电话可以用这个：Tel. 213-740-1111
