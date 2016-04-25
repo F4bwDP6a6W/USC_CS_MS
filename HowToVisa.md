@@ -118,7 +118,9 @@ VO: Why do you choose this school?
 VO: What? You only applied one school?
 
 VO: How many schools did you apply.
+
 -------------------------------------------------------------------------------------
+
 VO: why are going to america?
 
 VO: where get your funding of study?
@@ -128,7 +130,7 @@ VO: what do your parents do?
 --------------------------------------------------------------------
 
 VO: Oh, that's fine. So why are you going to America?
-I am going to study a master degree in computer science
+
 VO: Oh, can I see your I-20 form?
 
 VO: Oh, USC! The weather there is great!
