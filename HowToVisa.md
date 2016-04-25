@@ -39,19 +39,19 @@
 
 **附录**
 a. 财政支持关系证明内容：
-MouMou Zhang
-address
-City, province, zip code, China
-02/25/2016
-
-
-University of Southern California
-Office of Graduate Admission I-20 Processing
-
-Dear Officer,
-I, MouMou Zhang certify that I will financially support XX Zhang for all educational, living, health, and personal expenses until completion of his degree at University of Southern California. XX Zhang is my son.
-If you have any questions, feel free to contact me at +86 XXX-9018-8953.
-
-Sincerely,
-父/母签名
+> MouMou Zhang
+> address
+> City, province, zip code, China
+> 02/25/2016
+> 
+> 
+> University of Southern California
+> Office of Graduate Admission I-20 Processing
+> 
+> Dear Officer,
+> I, MouMou Zhang certify that I will financially support XX Zhang for all educational, living, health, and personal expenses until > > > completion of his degree at University of Southern California. XX Zhang is my son.
+> If you have any questions, feel free to contact me at +86 XXX-9018-8953.
+> 
+> Sincerely,
+> 父/母签名
 
