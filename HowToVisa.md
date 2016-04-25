@@ -9,8 +9,11 @@
 3、在线填写留学签证申请DS-160表格[传送门](https://ceac.state.gov/genniv/)
 
 > 	DS-160大部分信息都可以在i20和护照上找到。 	电话可以用这个：Tel. 213-740-1111
+
 > 每一页填写完了都需要save，不然很可能得从头开始
+
 > 护照的book number 可以在第一页的侧面找到
+
 > additional contacts 可以填写为你写推荐信的联系人 
 	
 4、在线使用美元国际信用卡缴纳SEVIS I-901费用[传送门](https://www.fmjfee.com/i901fee/)
