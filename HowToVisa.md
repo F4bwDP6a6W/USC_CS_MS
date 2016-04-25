@@ -13,8 +13,11 @@
 > additional contacts 可以填写为你写推荐信的联系人 
 	
 4、在线使用美元国际信用卡缴纳SEVIS I-901费用[传送门](https://www.fmjfee.com/i901fee/)
+
 5、在美国大使馆网站预约面谈[传送门](http://ustraveldocs.com/cn_zh/index.html)
+
 6、使用任意银行借记卡在中信在线支付（需要注册）， (也可以到中信银行ATM机使用国内任意银行的银联借记卡缴纳签证申请费用)
+
 7、准备材料：
 
  - 护照(这个是要留给签证官的)【必带】
