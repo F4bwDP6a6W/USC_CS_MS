@@ -65,6 +65,7 @@
 > 父/母签名
 
 **b. study plan exmaple：**
+
 Study Plan
 
 1)	Research Area of Interest and Major：
