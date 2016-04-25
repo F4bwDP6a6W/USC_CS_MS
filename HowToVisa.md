@@ -8,7 +8,7 @@
 
 3、在线填写留学签证申请DS-160表格[传送门](https://ceac.state.gov/genniv/)
 
-> 	DS-160大部分信息都可以在i20和护照上找到。 	电话可以用这个：Tel. 213-740-1111
+> DS-160大部分信息都可以在i20和护照上找到。电话可以用这个：Tel. 213-740-1111
 
 > 每一页填写完了都需要save，不然很可能得从头开始
 
@@ -43,7 +43,7 @@
 一些问题的example参看附录c
 
 **附录**
-a. 财政支持关系证明内容：
+**a. 财政支持关系证明内容：**
 > MouMou Zhang
 
 > address
@@ -64,38 +64,47 @@ a. 财政支持关系证明内容：
 
 > 父/母签名
 
-b. study plan exmaple：
+**b. study plan exmaple：**
 Study Plan
 
 1)	Research Area of Interest and Major：
+
 Major: Computer Science (track in Computer Security) 
+
 Total Units: 32
+
 Include but not limited courses:
-•	CSCI 585 - Database Systems (4)
-•	CSCI 571 - Web Technologies (4)
-•	CSCI 530 - Security Systems (4)
-•	CSCI 551 - Computer Communications (4)
-•	CSCI 555 - Advanced Operating Systems (4)
-•	CSCI 570 - Analysis of Algorithms (4)
-•	CSCI 577a - Software Engineering (4)
-•	CSCI 591 - Computer Science Research Colloquium (1, max 2)
+
+ - CSCI 585 - Database Systems (4)
+ - CSCI 571 - Web Technologies (4)
+ - CSCI 530 - Security Systems (4)
+ - CSCI 551 - Computer Communications (4)
+ - CSCI 555 - Advanced Operating Systems (4)
+ - CSCI 570 - Analysis of Algorithms (4)
+ - CSCI 577a - Software Engineering (4)
+ - CSCI 591 - Computer Science Research Colloquium (1, max 2)
 
 2)	Advisor or Potential Advisor: 
+
 Coursework only, no dedicated advisor.
 
 3)	Is your program coursework only? If not, please tell us the name of your research project and give a basic description of your research. 
+
 Coursework only program. 
 
 4)	Research Funding:
+
 My family saving and income can cover all the expense of my graduate study, including tuition and living cost.
 
-5)	Practical Application of Research: 
+5)	Practical Application of Research:
+
 Computer Science is all about technologies and skills that build software system and applications. Computer Security track spends relatively more efforts on learning how to build high available and robust software system.
 
 签名
+
 2016/4/19
 
-c. 面签提问
+**c. 面签提问**
 
 VO: What are you going to study
 
