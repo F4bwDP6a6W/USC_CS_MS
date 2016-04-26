@@ -6,6 +6,8 @@
  
  > 我于2016年8月8日起开始在，USC 美国南加州大学攻读 计算机科学 硕士学位。
  
+ > 我的[Linkedin账号](https://www.linkedin.com/in/hot13399), 微信(woshizn).
+ 
  > 这里列举了我收集的一些关于USC学习的信息。
  
  - 如何办理F1签证：[传送门](https://github.com/hot13399/USC_CS_MS/blob/master/HowToVisa.md)
