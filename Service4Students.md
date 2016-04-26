@@ -1,1 +1,3 @@
 
+http://www.jetbrains.com/student/
+https://education.github.com/
