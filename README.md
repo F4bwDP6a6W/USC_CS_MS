@@ -2,7 +2,7 @@
 
 # 南加州大学计算机硕士 相关信息
 
- > 我叫Jerry, 本科毕业于2009年，而后开发和维护Nokia NetAct系统至2016年7月。
+ > 我叫Jerry, 本科毕业于2009年，而后开发和维护[Nokia NetAct](http://networks.nokia.com/portfolio/solutions/netact)系统至2016年7月。
  
  > 我于2016年8月8日起开始在，USC 美国南加州大学攻读 计算机科学 硕士学位。
  
