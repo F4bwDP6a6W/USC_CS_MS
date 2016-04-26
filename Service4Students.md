@@ -1,2 +1,3 @@
  - http://www.jetbrains.com/student/
  - https://education.github.com/
+ - Leetcode学生团购: https://github.com/AntiGameZ/uscleetcode/blob/master/README.md
