@@ -1,3 +1,2 @@
-
-http://www.jetbrains.com/student/
-https://education.github.com/
+ - http://www.jetbrains.com/student/
+ - https://education.github.com/
