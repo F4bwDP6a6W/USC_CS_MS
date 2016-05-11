@@ -38,6 +38,7 @@
  - Study Plan/Research Plan(大使馆官方模版点这里：[下载](http://photos.state.gov/libraries/china/240500/pdf/Study%20Plan.doc))，另外提供一个example,附录b,【必带】
  - CV(用你申请时候的CV就行，官方模版点这里：[下载](http://photos.state.gov/libraries/china/198266/suyu/Sample%20Resume.pdf)
  - 银行存款财产证明（同样大使馆对冻结没有要求。而且这个大使馆90%都不会看）
+   > 如果是父母的存款证明，带上出生证明或者家庭户口本
  - 成绩单
  - 学位证原件（有则带）
  - 打印的电子邮件录取通知(在you.usc.edu里面下载PDF)
@@ -50,6 +51,7 @@
 **附录**
 
 **a. 财政支持关系证明内容：**
+{
 > MouMou Zhang
 
 > address
@@ -69,8 +71,10 @@
 > Sincerely,
 
 > 父/母签名
+}
 
 **b. study plan exmaple：**
+{
 
 Study Plan
 
@@ -110,6 +114,7 @@ Computer Science is all about technologies and skills that build software system
 签名
 
 2016/4/19
+}
 
 **c. 面签提问**
 
