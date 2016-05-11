@@ -10,5 +10,6 @@
  
  > 这里列举了我收集的一些关于USC学习的信息。
  
+ - USC 开学前和开学后的todo list,查看你还有哪些准备没做：[传送门](https://github.com/hot13399/USC_CS_MS/blob/master/USC_ToDo_List.md)
  - 如何办理F1签证：[传送门](https://github.com/hot13399/USC_CS_MS/blob/master/HowToVisa.md)
  - 一些针对学生的优惠服务：[传送门](https://github.com/hot13399/USC_CS_MS/blob/master/Service4Students.md)
