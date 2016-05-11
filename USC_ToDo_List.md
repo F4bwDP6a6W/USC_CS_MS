@@ -1,27 +1,29 @@
-[X]Activate your USC e-mail and USC NetID.
-[X]Access MyUSC and OASIS.
-[ ]Review Viterbi Newly Admitted Student page (Housing & arriving preparation information).
-[ ]Review Immunizations and Screenings Requirements and prepare documents.
-    (MMR can be taken in your home country or on campus; USC only accepts T-Spot blood test lab proof from the United States or Canada)  
-[X]Sign up for the Viterbi Master's Orientation.
-[ ]Sign up for Passport Verification (PPV). Do NOT choose August 8th as it conflicts with the Viterbi Master's Orientation.
-[ ]Check your proficiency in English on the letter of admission and your I-20 (No.6), and review International Student English (ISE) exam policies. Please note if your English proficiency scores are below the exam requirements, we recommend you take the appropriate test again to avoid taking the ISE exam.
-[X]Bring all your original diploma and transcripts with you to USC to prepare for the degree verification.
+# USC官方的todo list,我翻译成中文。
 
-After Arriving on Campus[ ]Attend Passport Verification (PPV).
-[ ]Get your USC ID card at the USCard Services (after PPV on campus).
-[ ]Attend the Viterbi Master’s Orientation on August 10th (bring your USC ID).
-[ ]Take the International Student English (ISE) exam (if applicable).[ ]Bythe add/drop deadline, submit the correct immunization and blood test proof to USC Health Center.
-[ ]Contact academic advisor in your department for your academic plan. [ ]Register for classes (after you finish PPV on campus; View this tutorial on Web Registration).
-[ ]Check your bill for insurance coverage. If you would like, you may waive USC insurance or add dental coverage.
-[ ]Check your bill at MyUSC and pay tuition and fees before every payment due date.
-[ ] View your book list on OASIS and purchase your textbooks from the USC Bookstore or other retailers.
-[ ] Update your local address after you move in your living place.
-[X]Before the end of the first semester, complete your international prior degree verification. Note: We recommend that you bring all your original diploma and updated transcript with you to USC.
- Get Involved! 
-	* Connect with USC Viterbi Graduate Programs
-	* Viterbi Career Connections services and programs.
-	* Viterbi Graduate Student Association (VGSA)
-	* Viterbi Student Organizations
-	* USC Student Organizations
+开学前需要做的事情：
+
+
+  - [X]激活 [USC e-mail and USC NetID](http://www.usc.edu/firstlogin).
+  - [X]访问 [MyUSC](https://my.usc.edu/portal/guest.php) 和 [OASIS](https://camel2.usc.edu/OASIS/).
+  - [ ]准备房子和机场到学校的通勤.
+  - [ ]学校关于疫苗和体检的要求：[传送门](https://engemannshc.usc.edu/medical/immunization-clinic/required/).(MMR 可以在国内也可以去学校; T-Spot blood test必须在美国或者加拿大做)  
+  - [X]注册[Viterbi Master's Orientation](http://tools.uscden.net/fallorientation/).
+  - [ ]预约 [Passport Verification PPV](http://ois.usc.edu/new-students/firstweeks/passport-verification-ppv/).
+  - [ ]如果录取要求里需要 [International Student English ISE exam](http://ali.usc.edu/?page_id=715), 最好是在开学前托福考到 90:20,20,20,20 waive掉这个课程。
+  - [X]带上学位证，毕业证和成绩单，准备学位认证。
+
+抵达学校以后：
+  - [ ]第一步做 Passport Verification (PPV).
+  - [ ]在 USCard Services 领取 [USC ID card](http://www.usc.edu/bus-affairs/admin_serv/uscard_serv/) .
+  - [ ]八月10号 参加 Viterbi Master’s Orientation，带上USCard.
+  - [ ]如果需要，参加 [International Student English ISE](http://ali.usc.edu/?page_id=715) 考试.
+  - [ ]完成疫苗和体检的要求：[传送门](https://engemannshc.usc.edu/medical/immunization-clinic/required/).
+  - [ ]咨询 [academic advisor](http://gapp.usc.edu/students/masters/gradadvisors) 关于你的学习计划. 
+  - [ ][注册课程](http://usc.edu/webregistration), 在PPV以后; 这是[详细的讲解](http://www.usc.edu/dept/ARR/services/registration/webregistration.html).
+  - [ ]购买学校的保险. 你也可以购买外面的保险，[取消学校的](http://engemannshc.usc.edu/insurance/insurance-plan/).
+  - [ ]在 [MyUSC](my.usc.edu) 上查看你的账单，[支付学费](https://fbs.usc.edu/depts/sfs/page/1893/pay-options/).
+  - [ ]在 [OASIS]()上查看或购买需要的教材, 或者在书店买书
+  - [ ][修改你的美国地址](https://sait.usc.edu/ois/address-update.aspx).
+  - [X][完成学位认证](http://www.usc.edu/dept/ARR/services/degree-progress/verification.html)
+ 
 
