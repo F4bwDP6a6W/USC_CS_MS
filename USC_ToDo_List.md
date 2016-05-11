@@ -5,7 +5,7 @@
 
   - [X]激活 [USC e-mail and USC NetID](http://www.usc.edu/firstlogin).
   - [X]访问 [MyUSC](https://my.usc.edu/portal/guest.php) 和 [OASIS](https://camel2.usc.edu/OASIS/).
-  - [ ]准备房子和机场到学校的通勤.
+  - [ ]准备房子,机票和机场到学校的通勤.
   - [ ]学校关于疫苗和体检的要求：[传送门](https://engemannshc.usc.edu/medical/immunization-clinic/required/).(MMR 可以在国内也可以去学校; T-Spot blood test必须在美国或者加拿大做)  
   - [X]注册[Viterbi Master's Orientation](http://tools.uscden.net/fallorientation/).
   - [ ]预约 [Passport Verification PPV](http://ois.usc.edu/new-students/firstweeks/passport-verification-ppv/).
