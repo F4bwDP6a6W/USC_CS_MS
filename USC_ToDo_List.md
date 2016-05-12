@@ -25,5 +25,11 @@
   - [ ]在 [OASIS]()上查看或购买需要的教材, 或者在书店买书
   - [ ][修改你的美国地址](https://sait.usc.edu/ois/address-update.aspx).
   - [X][完成学位认证](http://www.usc.edu/dept/ARR/services/degree-progress/verification.html)
- 
+  
+加入各种组织：
+  - [] [Viterbi 学院的公众号](http://gapp.usc.edu/about/connect)
+  - [] [工作信息](http://viterbi.usc.edu/careers/)
+  - [] [Viterbi 研究生会](https://gapp.usc.edu/students/current/student-resources/vgsa)
+  - [] [Viterbi 学生俱乐部](http://viterbi.usc.edu/students/studentorgs/)
+  - [] [USC 学生俱乐部](http://campusactivities.usc.edu/)
 
