@@ -9,6 +9,7 @@
   - [ ][学校关于疫苗和体检的要求](https://engemannshc.usc.edu/medical/immunization-clinic/required/) 和 [USC 2016fall 新生入学问题汇总](http://www.linrk.com/post/usc-guide-to-2016-fall/)(MMR 可以在国内也可以去学校; T-Spot blood test必须在美国或者加拿大做)  
   - [X]注册[Viterbi Master's Orientation](http://tools.uscden.net/fallorientation/).
   - [ ]预约 [Passport Verification PPV](http://ois.usc.edu/new-students/firstweeks/passport-verification-ppv/).
+  - [ ][提交USCard照片](http://mycard.usc.edu/general/getting_id.html)
   - [ ]如果录取要求里需要 [International Student English ISE exam](http://ali.usc.edu/?page_id=715), 最好是在开学前托福考到 90:20,20,20,20 waive掉这个课程。
   - [X]带上学位证，毕业证和成绩单，准备学位认证。
 
