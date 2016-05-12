@@ -20,7 +20,7 @@
   - [ ]如果需要，参加 [International Student English ISE](http://ali.usc.edu/?page_id=715) 考试.
   - [ ]完成疫苗和体检的要求：[传送门](https://engemannshc.usc.edu/medical/immunization-clinic/required/).
   - [ ]咨询 [academic advisor](http://gapp.usc.edu/students/masters/gradadvisors) 关于你的学习计划. 
-  - [ ][注册课程](http://usc.edu/webregistration), 在PPV以后; 这是[详细的讲解](http://www.usc.edu/dept/ARR/services/registration/webregistration.html).
+  - [ ][注册课程](http://usc.edu/webregistration)（需先完成PPV）, 这是[详细的讲解](http://www.usc.edu/dept/ARR/services/registration/webregistration.html).
   - [ ]购买学校的保险. 你也可以购买外面的保险，[取消学校的](http://engemannshc.usc.edu/insurance/insurance-plan/).
   - [ ]在 [MyUSC](my.usc.edu) 上查看你的账单，[支付学费](https://fbs.usc.edu/depts/sfs/page/1893/pay-options/).
   - [ ]在 [OASIS]()上查看或购买需要的教材, 或者在书店买书
