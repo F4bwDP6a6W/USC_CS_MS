@@ -1,5 +1,5 @@
 
-# USC官方的中文todo list。
+# USC官方TODO LIST的中文翻译。
 
 开学前需要做的事情：
 
