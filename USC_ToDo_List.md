@@ -1,10 +1,6 @@
  # USC官方的todo list,翻译成中文。
  
- > 我叫Jerry, 本科毕业于2009年，而后开发和维护[Nokia NetAct](http://networks.nokia.com/portfolio/solutions/netact)系统至2016年7月。
- 
- > 我于2016年8月8日起开始在，USC 美国南加州大学攻读 计算机科学 硕士学位。
- 
- > 我的[Linkedin账号](https://www.linkedin.com/in/hot13399), 微信(woshizn).
+
 
 开学前需要做的事情：
 
@@ -17,9 +13,9 @@
   - [ ][提交USCard照片](http://mycard.usc.edu/general/getting_id.html)
   - [ ]如果录取要求里需要 [International Student English ISE exam](http://ali.usc.edu/?page_id=715), 最好是在开学前托福考到 90:20,20,20,20 waive掉这个课程。
   - [ ]准备学位认证。
-   > 材料：1. 毕业证 2.学位证 3. 成绩单（中英文）
-   > 4，毕业证翻译件，5.学位证翻译件 （最好让学校翻译并盖章）
-   > 6.所有文件的复印件（包含翻译件的复印件）
+> 材料：1. 毕业证 2.学位证 3. 成绩单（中英文）
+> 4，毕业证翻译件，5.学位证翻译件 （最好让学校翻译并盖章）
+> 6.所有文件的复印件（包含翻译件的复印件）
 
 抵达学校以后：
   - [ ]第一步做 Passport Verification (PPV).
@@ -44,3 +40,6 @@
   - [ ] [Viterbi 学生俱乐部](http://viterbi.usc.edu/students/studentorgs/)
   - [ ] [USC 学生俱乐部](http://campusactivities.usc.edu/)
 
+ > 我叫Jerry, 本科毕业于2009年，而后开发和维护[Nokia NetAct](http://networks.nokia.com/portfolio/solutions/netact)系统至2016年7月。
+ > 我于2016年8月8日起开始在，USC 美国南加州大学攻读 计算机科学 硕士学位。
+ > 我的[Linkedin账号](https://www.linkedin.com/in/hot13399), 微信(woshizn).
