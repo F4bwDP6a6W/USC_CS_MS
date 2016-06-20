@@ -33,6 +33,7 @@
  - 护照(这个是要留给签证官的)【必带】
  - 身份证【必带】
  - I-20【必带】
+ - 预约签证确认单【必带】(Step 5 成功后打印)
  - DS-160确认表格（不需要表格内容）【必带】
  - SEVIS I-901收据【必带】
  - Study Plan/Research Plan(大使馆官方模版点这里：[下载](http://photos.state.gov/libraries/china/240500/pdf/Study%20Plan.doc))，另外提供一个example,附录b,【必带】
