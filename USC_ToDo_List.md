@@ -16,7 +16,6 @@
  > 材料：1. 毕业证 2.学位证 3. 成绩单（中英文）
  > 4，毕业证翻译件，5.学位证翻译件 （最好让学校翻译并盖章）
  > 6.所有文件的复印件（包含翻译件的复印件）
-  - [ ] [计算机科学新生提交优先课程](http://www.cs.usc.edu/students/ms-students/course-preferences.htm)
 
 抵达学校以后：
   - [ ] 第一步做 Passport Verification (PPV).
