@@ -5,7 +5,7 @@
 
 1、从学校获取I-20表格
 
-> a. 发送财产证明 和 护照扫描件 到usci20@usc.edu，注意贴上你的USC ID，学校对冻结没有要求. 如果是父母的财产证明需要一张关系证明，参见 附录a. 修改成你的信息，打印出来，让父/母签字。扫描一并发送。 
+> a. 发送财产证明到usci20@usc.edu，注意贴上你的USC ID，学校对冻结没有要求. 如果是父母的财产证明需要一张关系证明，参见 附录a. 修改成你的信息，打印出来，让父/母签字。扫描一并发送。 
 
 > b. 登陆you.usc.edu填写intend form，完了就可以等待DHL送来I-20了，大部分人不会收到任何邮件告诉DHL track id
 
@@ -28,18 +28,15 @@
 6、使用任意银行借记卡在中信在线支付（需要注册）， (也可以到中信银行ATM机使用国内任意银行的银联借记卡缴纳签证申请费用)
 
 7、准备材料：
-先仔细阅读大使馆官网：[传送门](http://ustraveldocs.com/cn_zh/cn-niv-typefandm.asp)
 
  - 护照(这个是要留给签证官的)【必带】
  - 身份证【必带】
  - I-20【必带】
- - 预约签证确认单【必带】(Step 5 成功后打印)
  - DS-160确认表格（不需要表格内容）【必带】
  - SEVIS I-901收据【必带】
  - Study Plan/Research Plan(大使馆官方模版点这里：[下载](http://photos.state.gov/libraries/china/240500/pdf/Study%20Plan.doc))，另外提供一个example,附录b,【必带】
  - CV(用你申请时候的CV就行，官方模版点这里：[下载](http://photos.state.gov/libraries/china/198266/suyu/Sample%20Resume.pdf)
  - 银行存款财产证明（同样大使馆对冻结没有要求。而且这个大使馆90%都不会看）
-   > 如果是父母的存款证明，带上出生证明或者家庭户口本
  - 成绩单
  - 学位证原件（有则带）
  - 打印的电子邮件录取通知(在you.usc.edu里面下载PDF)
@@ -52,7 +49,6 @@
 **附录**
 
 **a. 财政支持关系证明内容：**
-{
 > MouMou Zhang
 
 > address
@@ -72,10 +68,8 @@
 > Sincerely,
 
 > 父/母签名
-}
 
 **b. study plan exmaple：**
-{
 
 Study Plan
 
@@ -115,7 +109,6 @@ Computer Science is all about technologies and skills that build software system
 签名
 
 2016/4/19
-}
 
 **c. 面签提问**
 
