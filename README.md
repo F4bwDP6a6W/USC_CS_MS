@@ -10,5 +10,8 @@
  
  > 这里列举了我收集的一些关于USC学习的信息。
  
+ > 我收集的一些北美好用的服务：https://github.com/hot13399/FLY_US/blob/master/Referral.md
+ 
+ > USC 新生必做事项： https://github.com/hot13399/USC_CS_MS/blob/master/USC_ToDo_List.md
+ 
  - 如何办理F1签证：[传送门](https://github.com/hot13399/USC_CS_MS/blob/master/HowToVisa.md)
- - 一些针对学生的优惠服务：[传送门](https://github.com/hot13399/USC_CS_MS/blob/master/Service4Students.md)
