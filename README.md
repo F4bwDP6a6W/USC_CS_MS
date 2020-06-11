@@ -15,3 +15,6 @@
  > USC 新生必做事项： https://github.com/hot13399/USC_CS_MS/blob/master/USC_ToDo_List.md
  
  - 如何办理F1签证：[传送门](https://github.com/hot13399/USC_CS_MS/blob/master/HowToVisa.md)
+
+
+请问有后续更新信息么？
